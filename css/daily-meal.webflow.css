@@ -238,6 +238,10 @@ a {
   box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.2);
 }
 
+.mb-26 {
+  margin-bottom: 26px;
+}
+
 @media screen and (max-width: 991px) {
   .hero-section {
     padding-right: 52px;
@@ -399,12 +403,14 @@ a {
   font-weight: 700;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Sf pro display';
   src: url('../fonts/SF-Pro-Display-Medium.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-Bold.otf') format('opentype');
