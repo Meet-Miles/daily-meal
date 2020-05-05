@@ -242,6 +242,14 @@ a {
   margin-bottom: 26px;
 }
 
+#map {
+  margin: 104px 52px 104px 52px;
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
 @media screen and (max-width: 991px) {
   .hero-section {
     padding-right: 52px;
